@@ -1,0 +1,7 @@
+github.com/pascaldekloe/goe v0.1.0/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
+github.com/pixolous/pixolousAnalyze v0.0.0-20210718004754-321ddc728bbf h1:IIKrEl/zYGSCEkfKPWHJ/g4keWyFTlU/OJefXdtn/ZQ=
+github.com/pixolous/pixolousAnalyze v0.0.0-20210718004754-321ddc728bbf/go.mod h1:G7nN1X4yN6v4aNwBxycWHKmsNMGZvaDFIwPlVzmLRkY=
+github.com/pixolous/pixolousAnalyze v0.0.0-20210718011850-bc540dfa6a98 h1:l//bgQv+rHBKe933FdGiYPMeujNSOowPObC4BOumShs=
+github.com/pixolous/pixolousAnalyze v0.0.0-20210718011850-bc540dfa6a98/go.mod h1:G7nN1X4yN6v4aNwBxycWHKmsNMGZvaDFIwPlVzmLRkY=
+gocv.io/x/gocv v0.27.0 h1:3X8I74ULsWHd4m7DQRv2Nqx5VkKscfUFnKgLNodiboI=
+gocv.io/x/gocv v0.27.0/go.mod h1:n4LnYjykU6y9gn48yZf4eLCdtuSb77XxSkW6g0wGf/A=
